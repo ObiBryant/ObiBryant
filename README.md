@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Interpreting Network Traffic Home Lab](https://github.com/ObiBryant/Interpreting-Network-Traffic.git)
+  - [Analyzing Result of Credentialed Vulnerability Scan](https://github.com/ObiBryant/Analyzing-Results-of-Credentialed-Vulnerability-Scan.git)
 
 <h2> Certifications </h2>
 
