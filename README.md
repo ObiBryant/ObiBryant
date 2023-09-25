@@ -4,6 +4,7 @@
 
   - [Interpreting Network Traffic Home Lab](https://github.com/ObiBryant/Interpreting-Network-Traffic.git)
   - [Analyzing Result of Credentialed Vulnerability Scan](https://github.com/ObiBryant/Analyzing-Results-of-Credentialed-Vulnerability-Scan.git)
+  - [Configuring An Intrusion Detection System](https://github.com/ObiBryant/Configuring-an-Intrusion-Detection-System/tree/main)
 
 <h2> Certifications </h2>
 
